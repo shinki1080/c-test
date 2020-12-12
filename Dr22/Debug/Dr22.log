@@ -1,0 +1,3 @@
+﻿  kadai15_r2k.cpp
+C:\Users\ayata\source\repos\Dr22\kadai15_r2k.cpp(8,17): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+  Dr22.vcxproj -> C:\Users\ayata\source\repos\Dr22\Debug\Dr22.exe
